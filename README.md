@@ -10,3 +10,6 @@ Proyecto en Python para gestionar productos de un inventario.
 
 ## Autor
 Karen
+Este proyecto implementa un sistema de gestión de inventarios en Python.
+Permite agregar, eliminar y mostrar productos, guardando la información
+en un archivo de texto y manejando errores durante la lectura y escritura.
